@@ -1,2 +1,2 @@
 # helloworld
-hello world programs in all programming languages
+hello world program in all programming languages
